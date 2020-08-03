@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/aharpt/Recipe-App#readme",
   "dependencies": {
-    "express": "4.17.1"
+    "bootstrap": "4.5.0",
+    "express": "4.17.1",
+    "jquery": "3.5.1"
   }
 }
