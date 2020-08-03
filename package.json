@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aharpt/Recipe-App/issues"
   },
-  "homepage": "https://github.com/aharpt/Recipe-App#readme"
+  "homepage": "https://github.com/aharpt/Recipe-App#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
 }
